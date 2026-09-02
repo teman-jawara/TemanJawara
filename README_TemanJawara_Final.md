@@ -140,7 +140,7 @@ Buat database baru melalui MySQL.
 Contoh:
 
 ```text
-teman_jawara
+temanjawara_db
 ```
 
 ## 2. Konfigurasi `.env`
@@ -151,7 +151,7 @@ Buka file `.env`, lalu sesuaikan konfigurasi database:
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=teman_jawara
+DB_DATABASE=temanjawara_db
 DB_USERNAME=root
 DB_PASSWORD=
 ```
